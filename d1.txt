@@ -1,5 +1,12 @@
 hi this is aswani
 i am studying devops
 
+<<<<<<< Updated upstream
 //120 story
 my target is product based companies
+=======
+//My target Companies are 
+Accenture
+delloite
+DXC
+>>>>>>> Stashed changes
