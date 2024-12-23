@@ -4,6 +4,11 @@ i am studying devops
 <<<<<<< Updated upstream
 //120 story
 my target is product based companies
+Amazon
+Walmart
+paypal
+myntra
+uber
 =======
 //My target Companies are 
 Accenture
